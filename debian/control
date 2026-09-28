@@ -1,0 +1,9 @@
+Package: geckodriver
+Section: web
+Priority: optional
+Maintainer: coplo <dayearnew@gmail.com>
+Homepage: https://github.com/mozilla/geckodriver
+Description: WebDriver proxy for Gecko-based browsers
+ geckodriver provides the W3C WebDriver HTTP API for controlling Gecko-based
+ browsers such as Firefox. This package installs the official Mozilla Linux
+ release binary.
